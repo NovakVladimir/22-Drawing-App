@@ -18,15 +18,13 @@ body {
 
 canvas {
     border: 2px solid steelblue;
-    width: 90%;
-    height: 80%;
 }
 
 .toolbox {
     background-color: steelblue;
     border: 1px solid slateblue;
     display: flex;
-    width: 98%;
+    width: 804px;
     padding: 1rem;
 }
 
@@ -48,4 +46,3 @@ canvas {
     margin-left: auto;
 
 }
-
